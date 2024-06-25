@@ -1,0 +1,23 @@
+[Warning] incompatible implicit declaration of built-in function 'printf'
+
+Libraries which contains built-in functions are accessed via header files which have .h extenstion they must be included  using #include Statement
+
+int - means integer keyword
+Return value of a process determines how the process gets executed which means either success or failure  
+default return value is 0 - which means success
+anything other than 0 is failure 
+
+
+// stands for single line comment
+/*
+This is multi line comment
+it can expand in multiple lines
+*/
+
+%d - stands for format specifiers 
+The format specifier in the printf statement is replaced by the value in the expression followed after the double quotes
+
+%f - floating point numbers
+
+two datatypes are coverd int and float and their format specifiers are %d and %f respectively 
+Arthemnetic operators 

@@ -1,0 +1,14 @@
+Revisied few Basic Programs 
+Variable - it is a container to hold data and it's value can change during the life time of the program
+How Memory is allocated for the variables int and char
+
+ASCII - American Standard Code for Information Interchange 
+Ascii Values
+Decimal to binary Conversion
+
+& - address of operator
+sizeof() operator
+
+Char datatype
+Size of Char is 1 byte
+size of Int is 4 bytes

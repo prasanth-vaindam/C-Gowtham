@@ -1,0 +1,43 @@
+Day 8 - June 11th 2024
+----------------------------------------------------------------------------------------------------
+Reading Input
+Intro on if else
+----------------------------------------------------------------------------------------------------
+Day 9 - June 12th 2024
+-----------------------
+if else 
+else if ladder
+WACP to check the number is 0 or positive or negative
+WACP to print the grade of the user by reading user marks
+-----------------------
+Day 10 - June 13th 2024
+- How to read multiple values from user based on the context (three variables)
+- WACP search Key with in 1 to 100
+- WACP to search the key value is with in the given numbers n1 and n2 (explained this) and gave as home work
+----------------------------------------------------------------------------------------------------------------
+Day 11 - June 14th 2024
+-----------------------
+Swapping, Introduction to Temperory variable
+----------------------------------------------------------------------------------------------------------------
+Day 12 - June 17th 2024
+-----------------------
+WACP To print the marks for the given grade
+----------------------------------------------------------------------------------------------------------------
+Day 13 - June 18th 2024
+-----------------------
+Switch Statement
+toupper function
+Usecase of Break keyword
+WACP To print the marks range for the given grade using Switch Statement
+--------------------------------------------------------------------------------------------------------------------
+Day 14 - June 19th 2024
+-------------
+Day x - June 25th 2024
+-----------------------
+Introduction to GIT
+Created a Git Account
+
+
+
+
+

@@ -1,0 +1,14 @@
+Day 4: June 4th 2024
+- What is execution ?
+- Flow of Execution - How Program Are Executed 
+- Libraries which contains built-in functions are accessed via header files which have .h extenstion they must be included  using #include Statement
+- Why we include<stdio.h> in the beginning of the program (To avoid - Warnings)
+Day 5: June 7th 2024
+- Recap,
+- Return type of a function,  int is default return type of main Function in C
+- C Arithmetic Operators (+, -, *, /, %)
+- Format Specifiers { %d - integers and %f - floats ( floats means fractional values )}
+
+Q. What is the return value for success?
+Answer: Typically a zero return is success and one or non-zero is failure or error.
+- 

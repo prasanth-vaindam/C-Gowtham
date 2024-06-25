@@ -1,0 +1,8 @@
+Installed Dev C++ IDE 
+#- stands for Preprocess directive
+Executed Greetings Program
+WACP to print sbilings names
+
+
+++++++++++++++++++++++++++++++
+Explained unary operators { - , ++, --}
