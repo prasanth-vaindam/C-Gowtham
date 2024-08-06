@@ -32,6 +32,12 @@ WACP To print the marks range for the given grade using Switch Statement
 --------------------------------------------------------------------------------------------------------------------
 Day 14 - June 19th 2024
 -------------
+Ternary Operator
+WACP TO Check which is the biggest of two numbers using if else and ternary Operator
+character set
+comma operator
+Data Types
+-------------
 Day x - June 25th 2024
 -----------------------
 Introduction to GIT
